@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "145522123785",
+    "project_id": "tradingsathi",
+    "storage_bucket": "tradingsathi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145522123785:android:08d7030eb783927914c4d8",
+        "android_client_info": {
+          "package_name": "com.mycompany.tradingsathiv1.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145522123785-cg7hj8amq3rhu7645p1m9brrp0bnsd1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Z3ND6paaXA9lbHz99HgiXEq__wqrVN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145522123785-cg7hj8amq3rhu7645p1m9brrp0bnsd1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
